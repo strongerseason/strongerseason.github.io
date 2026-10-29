@@ -581,12 +581,12 @@
     .testimonial-card{ padding: 40px 28px 34px; }
     .contact-photo-wrap img{ width:360px; top:-30px; }
     .testimonial-track{ min-height: 240px; }
-    .hero-photo{ order:-1; aspect-ratio: 16/10; }
-    .philosophy-photo{ order:-1; aspect-ratio: 16/9; }
-    .about-photo{ order:-1; aspect-ratio: 16/10; }
+    .hero-photo{ order:-1; aspect-ratio: 4/5; }
+    .philosophy-photo{ order:-1; aspect-ratio: 4/5; }
+    .about-photo{ order:-1; aspect-ratio: 4/5; }
     .teaser-card{ grid-template-columns: 1fr; padding: 40px 30px; }
-    .teaser-visual{ max-width:220px; }
-    .photo-mat{ padding:10px; border-radius:12px; }
+    .teaser-visual{ max-width:320px; aspect-ratio: 4/5; }
+    .photo-mat{ padding:10px; border-radius:12px; width:calc(100% - 10px); max-width:430px; margin-left:0; margin-right:auto; }
     .photo-mat .photo-frame, .photo-mat .photo-frame img, .photo-mat .hero-photo::after{ border-radius:5px; }
     .photo-mat::before{ top:10px; left:10px; border-radius:12px; }
   }
@@ -597,16 +597,16 @@
     .services-grid{ grid-template-columns: 1fr; }
     .pillars{ grid-template-columns: 1fr; }
     .contact-card{
-      padding: 36px 26px 220px;
+      padding: 36px 26px 310px;
       min-height: 0;
       display:block;
     }
     .contact-copy{ max-width:none; }
     .contact-photo-wrap{
-      right:0; left:0; top:auto; bottom:0; height:220px;
+      right:0; left:0; top:auto; bottom:0; height:310px;
       justify-content:center;
     }
-    .contact-photo-wrap img{ position:static; height:100%; width:100%; object-fit:cover; object-position: center 20%; -webkit-mask-image:none; mask-image:none; }
+    .contact-photo-wrap img{ position:static; height:100%; width:100%; object-fit:cover; object-position: center 33%; -webkit-mask-image:none; mask-image:none; }
     .contact-tint{
       background: linear-gradient(0deg, rgba(16,26,46,0.35) 0%, rgba(16,26,46,0.97) 42%, rgba(16,26,46,0.98) 100%);
     }
