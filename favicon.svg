@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><rect width="24" height="24" rx="5" fill="#101A2E"/><g transform="translate(3.6 3.6) scale(0.7)" fill="none" stroke="#F6EEDC" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round">
+          <path d="M12 2L13.3 5.1L17.6 4.3L14.4 8.1L18.2 9.6L13.6 10.9L12.6 13.4L12 15.2L11.4 13.4L10.4 10.9L5.8 9.6L9.6 8.1L6.4 4.3L10.7 5.1Z"/>
+          <path d="M12.25 1.8L13 5.35L17.85 4.55L14.15 7.85L17.95 9.85L13.85 10.65L12.35 13.65L11.8 15L11.65 13.15L10.15 11.15L6.05 9.35L9.35 8.35L6.65 4.05L10.45 5.35Z" opacity="0.85"/>
+          <path d="M12 15.2L12 17.3"/>
+          <path d="M11.85 15.35L12.15 17.15" opacity="0.85"/>
+          <rect x="6.3" y="16.6" width="2.6" height="4" rx="0.9"/>
+          <rect x="6.5" y="16.8" width="2.6" height="4" rx="0.9" opacity="0.8" transform="rotate(-3 7.6 18.8)"/>
+          <rect x="15.1" y="16.6" width="2.6" height="4" rx="0.9"/>
+          <rect x="14.9" y="16.8" width="2.6" height="4" rx="0.9" opacity="0.8" transform="rotate(3 16.4 18.8)"/>
+          <line x1="8.9" y1="18.6" x2="15.1" y2="18.6"/>
+          <line x1="9" y1="18.8" x2="15" y2="18.4" opacity="0.85"/>
+        </g></svg>
